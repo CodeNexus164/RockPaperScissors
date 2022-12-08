@@ -1,0 +1,2 @@
+# RockPaperScissors
+Learning basic JavaScript. 
